@@ -1,0 +1,9 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/android_lar"
+    android:layout_width="800dp"
+    android:layout_height="360dp"
+    android:clipToOutline="true"
+    android:background="#2B2B2B"
+    />
